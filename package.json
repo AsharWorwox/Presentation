@@ -1,0 +1,36 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "This presentation is for my interim FYP evaluation.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-stylus": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsharWorwox/InterimPresentation.git"
+  },
+  "keywords": [
+    "Presentation",
+    "Slides",
+    "npm",
+    "gulp",
+    "gulp",
+    "stylus"
+  ],
+  "author": "M. Ashar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsharWorwox/InterimPresentation/issues"
+  },
+  "homepage": "https://github.com/AsharWorwox/InterimPresentation#readme"
+}
