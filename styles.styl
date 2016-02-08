@@ -2,7 +2,7 @@
 
 @import "_deps"
 
-color-primary = #ffdd00
+color-primary = #03a9f4
 color-secondary = #FF9D00
 
 html {
@@ -21,7 +21,7 @@ html {
     height 100%
     position absolute
     filter grayscale(100%) contrast(160%)
-    background:url(images/3.jpg); // blacksmith
+    // background:url(images/3.jpg); // blacksmith
     background-size cover
     top 0
     left 0
@@ -41,15 +41,15 @@ html {
       display none
 
 .slides > article:nth-child(5n+1):after
-    background-image linear-gradient(-208deg, #81af9b 0%, #7aa8ac 27%, #6693da 100%)
+    // background-image linear-gradient(-208deg, #81af9b 0%, #7aa8ac 27%, #6693da 100%)
 
 .slides > article:nth-child(5n+2):after
-    background-image: linear-gradient(-132deg, #FFDD00 0%, #6DD7BA 100%);
+    // background-image: linear-gradient(-132deg, #FFDD00 0%, #6DD7BA 100%);
 
 
 .slides > article.old-tools
   &:before
-    background-image url("images/audio_cassettes.jpg") !important
+    // background-image url("images/audio_cassettes.jpg") !important
     background-size contain
   &:after
     opacity 0.1
@@ -73,18 +73,18 @@ for num in 1...40
   combo = randomGradient();
   .slides > article:nth-child(39n+{num})
     &:before
-      background-image url(path)
+      // background-image url(path)
       content combo[1]
     &:after
-      background-image linear-gradient(random(0,360)deg, combo[1] 0%, combo[0] 100%);
+      // background-image linear-gradient(random(0,360)deg, combo[1] 0%, combo[0] 100%);
 
 
 // .slides > article:nth-child(1n):after
 //     background-image: linear-gradient(-173deg, #007EFF 0%, #6DD7BA 51%);
 
 h1,h2,h3,h4,h5,h6
-  font-family bangers
-  font-weight 100
+  font-family Lato
+  font-weight 700
   letter-spacing 1px
   line-height 1
   text-shadow 5px 5px 0 rgba(0,0,0,0.3)
@@ -103,7 +103,7 @@ small
   font-size 25px
 
 h1
-  transform skew(0, -8deg)
+  // transform skew(0, -8deg)
   font-size 120px
   color color-primary
   a
@@ -193,17 +193,17 @@ p.m5
 .me
   &:before
     // content #ff00e0 !important
-    background-image url("images/4.jpg") !important
+    // background-image url("images/4.jpg") !important
     content #17156b !important
   &:after
     // background-image: linear-gradient(72deg, #ff00e0 0%, #11feec 100%) !important;
     // background-image: linear-gradient(20deg, #9733EE 0%, #F45C43 100%) !important;
-    background-image: linear-gradient(111deg, #17156b 0%, #f8078c 100%)!important;
+    // background-image: linear-gradient(111deg, #17156b 0%, #f8078c 100%)!important;
 
 
 .qa
   &:before
-    background-image url("images/5.jpg") !important
+    // background-image url("images/5.jpg") !important
     content #14e839 !important
   &:after
-    background-image: linear-gradient(111deg, #14e839 0%, #3456fd 100%)!important;
+    // background-image: linear-gradient(111deg, #14e839 0%, #3456fd 100%)!important;
