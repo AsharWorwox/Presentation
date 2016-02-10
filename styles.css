@@ -509,121 +509,121 @@ html {
   opacity: 0.1;
 }
 .slides > article:nth-child(39n+1):before {
-  content: #ae5ceb;
+  content: #1e4823;
 }
 .slides > article:nth-child(39n+2):before {
   content: #52aeea;
 }
 .slides > article:nth-child(39n+3):before {
-  content: #7b4397;
+  content: #eb821b;
 }
 .slides > article:nth-child(39n+4):before {
-  content: #ae5ceb;
+  content: #7b4397;
 }
 .slides > article:nth-child(39n+5):before {
-  content: #ae5ceb;
-}
-.slides > article:nth-child(39n+6):before {
-  content: #94eced;
-}
-.slides > article:nth-child(39n+7):before {
-  content: #ae5ceb;
-}
-.slides > article:nth-child(39n+8):before {
-  content: #7b4397;
-}
-.slides > article:nth-child(39n+9):before {
-  content: #3768f7;
-}
-.slides > article:nth-child(39n+10):before {
-  content: #eb821b;
-}
-.slides > article:nth-child(39n+11):before {
-  content: #7b4397;
-}
-.slides > article:nth-child(39n+12):before {
-  content: #eb821b;
-}
-.slides > article:nth-child(39n+13):before {
   content: #5e9ccd;
 }
+.slides > article:nth-child(39n+6):before {
+  content: #ae5ceb;
+}
+.slides > article:nth-child(39n+7):before {
+  content: #3768f7;
+}
+.slides > article:nth-child(39n+8):before {
+  content: #3768f7;
+}
+.slides > article:nth-child(39n+9):before {
+  content: #ae5ceb;
+}
+.slides > article:nth-child(39n+10):before {
+  content: #ff00e0;
+}
+.slides > article:nth-child(39n+11):before {
+  content: #eb821b;
+}
+.slides > article:nth-child(39n+12):before {
+  content: #5e9ccd;
+}
+.slides > article:nth-child(39n+13):before {
+  content: #14e839;
+}
 .slides > article:nth-child(39n+14):before {
-  content: #52aeea;
+  content: #3768f7;
 }
 .slides > article:nth-child(39n+15):before {
   content: #006c8d;
 }
 .slides > article:nth-child(39n+16):before {
-  content: #eb821b;
+  content: #94eced;
 }
 .slides > article:nth-child(39n+17):before {
-  content: #17156b;
+  content: #1e4823;
 }
 .slides > article:nth-child(39n+18):before {
-  content: #7b4397;
+  content: #1e4823;
 }
 .slides > article:nth-child(39n+19):before {
-  content: #14e839;
+  content: #006c8d;
 }
 .slides > article:nth-child(39n+20):before {
-  content: #52aeea;
-}
-.slides > article:nth-child(39n+21):before {
-  content: #006c8d;
-}
-.slides > article:nth-child(39n+22):before {
-  content: #5e9ccd;
-}
-.slides > article:nth-child(39n+23):before {
-  content: #006c8d;
-}
-.slides > article:nth-child(39n+24):before {
   content: #17156b;
 }
+.slides > article:nth-child(39n+21):before {
+  content: #eb821b;
+}
+.slides > article:nth-child(39n+22):before {
+  content: #52aeea;
+}
+.slides > article:nth-child(39n+23):before {
+  content: #52aeea;
+}
+.slides > article:nth-child(39n+24):before {
+  content: #3768f7;
+}
 .slides > article:nth-child(39n+25):before {
-  content: #7d5794;
+  content: #14e839;
 }
 .slides > article:nth-child(39n+26):before {
   content: #7d5794;
 }
 .slides > article:nth-child(39n+27):before {
-  content: #006c8d;
-}
-.slides > article:nth-child(39n+28):before {
-  content: #006c8d;
-}
-.slides > article:nth-child(39n+29):before {
-  content: #52aeea;
-}
-.slides > article:nth-child(39n+30):before {
-  content: #94eced;
-}
-.slides > article:nth-child(39n+31):before {
-  content: #1e4823;
-}
-.slides > article:nth-child(39n+32):before {
-  content: #eb821b;
-}
-.slides > article:nth-child(39n+33):before {
-  content: #ff00e0;
-}
-.slides > article:nth-child(39n+34):before {
-  content: #eb821b;
-}
-.slides > article:nth-child(39n+35):before {
   content: #7d5794;
 }
-.slides > article:nth-child(39n+36):before {
+.slides > article:nth-child(39n+28):before {
+  content: #7b4397;
+}
+.slides > article:nth-child(39n+29):before {
+  content: #ff00e0;
+}
+.slides > article:nth-child(39n+30):before {
   content: #ae5ceb;
+}
+.slides > article:nth-child(39n+31):before {
+  content: #94eced;
+}
+.slides > article:nth-child(39n+32):before {
+  content: #7b4397;
+}
+.slides > article:nth-child(39n+33):before {
+  content: #ae5ceb;
+}
+.slides > article:nth-child(39n+34):before {
+  content: #ff00e0;
+}
+.slides > article:nth-child(39n+35):before {
+  content: #94eced;
+}
+.slides > article:nth-child(39n+36):before {
+  content: #5e9ccd;
 }
 .slides > article:nth-child(39n+37):before {
-  content: #006c8d;
-}
-.slides > article:nth-child(39n+38):before {
   content: #ae5ceb;
 }
+.slides > article:nth-child(39n+38):before {
+  content: #7b4397;
+}
 .slides > article:nth-child(39n+39):before {
-  content: #14e839;
+  content: #17156b;
 }
 h1,
 h2,
